@@ -32,7 +32,7 @@ function calculateProfitAndLoss(initial, quantity, current) {
     }
 }
 
-function showOutput(message, status){
+function showOutput(message) {
     // switch (status) {
     //     case "PROFIT":
     //         outputBox.innerHTML = message;
